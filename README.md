@@ -1,2 +1,0 @@
-# EmojipediawithReact
-Created with CodeSandbox
